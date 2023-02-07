@@ -1,0 +1,9 @@
+# SQL_CAPSTONE_Market_Spendings
+
+Analyze the marketing spending.
+1.	Overall ROMI
+2.	ROMI by campaigns
+3.	Performance of the campaign depending on the date - on which date did we spend the most money on advertising, when we got the biggest revenue when conversion rates were high and low? What were the average order values?
+4.	When buyers are more active? What is the average revenue on weekdays and weekends?
+5.	Which types of campaigns work best - social, banner, influencer, or a search?
+6.	Which geo locations are better for targeting - tier 1 or tier 2 cities?
